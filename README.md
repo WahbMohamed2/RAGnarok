@@ -1,19 +1,19 @@
-# 🧠 ProfilePulse
+# ProfilePulse
 
 A **Retrieval-Augmented Generation (RAG)** system that lets you query a personal profile document using natural language — powered by HuggingFace embeddings, ChromaDB, and Zephyr-7B.
 
 ---
 
-## 🚀 What This Project Does
+## What This Project Does
 
 ProfilePulse ingests a structured `.txt` profile document, breaks it into semantically meaningful chunks, embeds them into a persistent vector store, and answers questions about the person using only the document as the source of truth — no hallucinations, no assumptions.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
-📄 Profile Document (.txt)
+Profile Document (.txt)
         │
         ▼
  ┌─────────────────┐
@@ -50,7 +50,7 @@ ProfilePulse ingests a structured `.txt` profile document, breaks it into semant
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ProfilePulse/
@@ -64,7 +64,7 @@ ProfilePulse/
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 **1. Clone & create a virtual environment**
 ```bash
@@ -96,7 +96,7 @@ The first run builds and persists the ChromaDB vector store. Subsequent runs loa
 
 ---
 
-## 💬 Sample Output
+## Sample Output
 
 ```
 Q: Which machine learning courses has Wahb completed?
@@ -118,11 +118,11 @@ Q: What is Wahb's favorite food?
 A: The information is not available in the provided document.
 ```
 
-The system correctly refuses to hallucinate when the answer isn't in the document. ✅
+The system correctly refuses to hallucinate when the answer isn't in the document.
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 All key parameters live at the top of `rag_system.py`:
 
@@ -136,7 +136,7 @@ All key parameters live at the top of `rag_system.py`:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - The LLM is instructed via a strict prompt to answer **only from retrieved context** — it will say "The information is not available in the provided document." rather than guess.
 - ChromaDB persists to disk so embeddings are only computed once.
@@ -144,7 +144,6 @@ All key parameters live at the top of `rag_system.py`:
 
 ---
 
-## 👤 Author
+## Author
 
 **Wahb Mohamed** — Computer Science Student | AI & Data Science  
-Graduation Project: Multimodal Deepfake Detection System
