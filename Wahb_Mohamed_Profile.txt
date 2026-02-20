@@ -1,0 +1,127 @@
+Wahb Mohamed Computer Science Student | Aspiring AI & Data Science
+Engineer
+
+============================== BACKGROUND ==============================
+Wahb Mohamed is a computer science student with a strong specialization
+focus in Data Science, Machine Learning, and Artificial Intelligence. He
+has consistently pursued structured, high-level education in ML and DL,
+completing multiple advanced courses and implementing models from
+scratch to strengthen both theoretical understanding and practical
+skills.
+
+He values clarity, practical execution, deep understanding, and
+forward-thinking technical growth.
+
+============================== EDUCATION & COURSES
+============================== - Completed: Supervised Machine Learning:
+Regression and Classification (Stanford University - Coursera) -
+Completed: Machine Learning Specialization (Andrew Ng) – First two
+courses - Completed: Advanced Stanford ML Course (Linear Regression,
+Logistic Regression, Neural Networks, Decision Trees) - Completed: First
+Five Courses of the Deep Learning Specialization (Andrew Ng) - Studied:
+CNNs (Convolutional Neural Networks) - Studying: GANs (from “GANs in
+Action” by Jakob Langr & Vladimir Bok) - Studying: “Attention Is All You
+Need” (Transformer architecture) - Studying: Design Machine Learning
+Systems (MOOC) - Studied: First 8 chapters of “Hands-On Machine
+Learning”
+
+============================== TECHNICAL SKILLS
+============================== Programming & Tools: - Python - NumPy
+(including implementing neural networks from scratch) - TensorFlow -
+Linux (Ubuntu) - .NET (backend collaboration context) - Flutter
+(frontend collaboration context) - Git & project structuring - Virtual
+environments (venv)
+
+Machine Learning & AI: - Linear Regression - Logistic Regression -
+Decision Trees - Random Forests - Boosted Trees - Ridge & Lasso
+Regression - Neural Networks (implemented from scratch) - CNNs - GANs -
+Transformers (theoretical study) - Model Evaluation & Data Splitting -
+Feature Engineering - MFCC (for audio processing in multimodal models)
+
+============================== PROJECTS ==============================
+
+1)  Deepfake Detection System (Graduation Project)
+
+-   Multimodal system (Video + Audio)
+-   Uses MFCC for audio feature extraction
+-   Frame-level visual explanations to justify predictions
+-   Backend: Python
+-   Frontend: Flutter
+-   API/Plugin extension for broad usability
+-   Unique feature: Users can upload their own images. If their face
+    appears in a later uploaded video, they are notified.
+-   Focus: Accessibility for all users, not just enterprises.
+
+2)  Automatic Text Summarization System
+
+-   Data science backend
+-   .NET backend
+-   Flutter frontend
+
+3)  Real-Time Sports Analytics System
+
+-   Data science backend
+-   .NET backend
+-   Flutter frontend
+
+4)  Neural Network from Scratch
+
+-   Built using NumPy only
+-   Implemented forward propagation
+-   Implemented backward propagation
+-   Used ReLU activation
+-   Performed data splitting and testing
+-   Used real dataset (Kaggle)
+
+============================== LEADERSHIP & EXPERIENCE
+============================== - Team Leader for Graduation Project -
+Former Public Relations Member at TEDxMansouraUniversity (10 months) -
+Worked on press releases - Social media outreach - Media partnerships -
+Strengthened organizational visibility and reputation
+
+============================== INTERESTS & PERSONAL PASSIONS
+============================== Creative Interests: - Drawing - Painting
+
+Entertainment & Media Interests: - Anime - The Sopranos - Star Wars -
+Strong admiration for Anakin Skywalker as a complex and transformative
+character
+
+These interests reflect both creative expression and appreciation for
+deep storytelling, character development, and complex narratives.
+
+============================== TECHNICAL INTERESTS
+============================== - Deep Learning - CNNs (strong passion) -
+GANs - Transformers - Multimodal AI Systems - Real-time AI Systems -
+Model Explainability - AI system design & scalability - Building
+production-ready ML systems
+
+============================== PERSONAL TRAITS & APPROACH
+============================== - Intense focus and drive - High
+emotional intensity and mental sharpness - Strong desire for mastery
+rather than surface-level knowledge - Prefers practical understanding
+over memorization - Forward-thinking and system-oriented mindset -
+Actively improving problem-solving skills (recursion, DFS, BFS, dynamic
+programming)
+
+============================== GOALS ==============================
+Short-Term Goals: - Master CNN architectures deeply - Fully understand
+GAN training dynamics - Deep understanding of Transformer architectures
+- Improve advanced problem-solving capabilities
+
+Long-Term Goals: - Become a high-level AI Engineer - Build unique,
+impactful AI systems - Develop scalable AI solutions accessible to real
+users - Combine research-level understanding with production-level
+implementation
+
+============================== CURRENT SYSTEM & ENVIRONMENT
+============================== - Uses Ubuntu Linux - MSI motherboard
+system - Development environment focused on Python and AI stack
+
+============================== SUMMARY ==============================
+Wahb Mohamed is a driven computer science student specializing in AI and
+Data Science. He combines structured learning from top-tier ML programs
+with hands-on implementation and leadership experience. His graduation
+project focuses on a unique multimodal deepfake detection system with
+explainability and user-protection features. His trajectory is oriented
+toward advanced deep learning, system design, and impactful AI
+engineering.
